@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Brightness Controller
+Comment=Adjust your screen brightness
+Exec=/path/to/brightness
+Icon=/path/to/icon.png  # Optional, replace with the path to an icon image
+Terminal=false
+Type=Application
